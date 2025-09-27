@@ -27,5 +27,9 @@ npm run dev
 ```sh
 npm run build
 ```
-
+网站大致图像
 <img width="1920" height="927" alt="image" src="https://github.com/user-attachments/assets/e30f0b18-56e6-46f7-8ed9-ccf6ee3ef36a" />
+<img width="1920" height="927" alt="image" src="https://github.com/user-attachments/assets/eb9416f7-aff7-4516-8537-c41ba6a08756" />
+<img width="1920" height="927" alt="image" src="https://github.com/user-attachments/assets/90f1c29a-689c-4caf-a048-656d0fe9dc38" />
+<img width="1920" height="927" alt="image" src="https://github.com/user-attachments/assets/21583719-aaab-4443-97ad-f8e99f4cc5e3" />
+<img width="1920" height="927" alt="image" src="https://github.com/user-attachments/assets/3182d74a-dd5b-4621-94b5-e933bf06b9e6" />
